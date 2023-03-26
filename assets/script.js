@@ -10,6 +10,7 @@ $(function () {
     var hourNumber = $(this).parent().attr('id').split('-')[1];
     var descriptionValue = $(this).parent().find('.description').val();
     localStorage.setItem(hourNumber,descriptionValue);
+    //did not add success alert for button, was in example but not in acceptance criteria??
   });
 
   
