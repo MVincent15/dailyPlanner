@@ -16,7 +16,7 @@ This scheduler can be used to help increase worker productivty through time-mana
 ## Link
 
 Here is the link to the live site: 
-
+ https://mvincent15.github.io/dailyPlanner/
 
 ## Credits
 
@@ -24,8 +24,11 @@ Some information taken from bootcamp GitLab repository https://smu.bootcampconte
 
 Sites used for help/refrencing code (including documentation for API): 
 https://www.w3schools.com/
+
 Bootstrap 
+
 JQuery 
+
 dayJS
 
 ## License
